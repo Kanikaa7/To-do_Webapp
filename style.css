@@ -11,7 +11,7 @@ header{
 }
 
 main{
-    background-image: url(img/bg-3.jpg);
+    background-image: url(bg-3.jpg);
     min-height: 552px;
     height: fit-content;
     background-repeat: no-repeat;
